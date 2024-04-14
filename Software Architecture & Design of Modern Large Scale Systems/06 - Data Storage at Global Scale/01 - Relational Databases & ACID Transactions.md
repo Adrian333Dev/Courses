@@ -40,3 +40,10 @@
 ## Conclusion
 
 Relational databases remain a fundamental choice for storing structured data that requires stringent data integrity and complex querying capabilities. They are particularly valuable in scenarios where relationships between data entities are complex and ACID compliance is required. However, the trade-offs in terms of schema flexibility and scalability must be carefully considered, especially when designing systems intended to scale at a global level. The next lectures will explore alternative database technologies that might better suit different scenarios, especially those requiring more flexibility or horizontal scaling.
+
+---
+
+## References
+
+- [Previous Lecture](../05%20-%20Large%20Scale%20Systems%20Architectural%20Building%20Blocks/08%20-%20CDN%20Solutions%20&%20Cloud%20Technologies.md)
+- [Next Lecture](./02%20-%20Non-Relational%20Databases.md)
