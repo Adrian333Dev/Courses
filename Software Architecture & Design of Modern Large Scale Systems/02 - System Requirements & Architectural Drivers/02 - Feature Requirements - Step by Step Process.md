@@ -36,3 +36,8 @@
 ---
 
 In this lecture, a formal method for capturing and documenting functional requirements through use cases and user flows was introduced, with an example of a hitchhiking service to illustrate the process. Sequence diagrams were presented as a tool for visualizing interactions in the system.
+
+## References
+
+- [Previous Lecture](./01%20-%20Introduction%20to%20System%20Design%20&%20Architectural%20Drivers.md)
+- [Next Lecture](./03%20-%20System%20Quality%20Attributes%20Requirements.md)

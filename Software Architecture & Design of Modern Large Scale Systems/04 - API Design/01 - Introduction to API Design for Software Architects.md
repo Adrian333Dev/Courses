@@ -26,3 +26,8 @@
 ## Summary
 
 In this lecture, the concept of API as a crucial component of software architecture was introduced along with the importance of good API design. The discussion highlighted different types of APIs (public, private, partner) and essential design considerations to ensure the API is effective, reliable, and user-friendly. Best practices such as encapsulation, idempotency, pagination, asynchronous operations, and versioning were emphasized to guide architects in creating robust and scalable APIs.
+
+## References
+
+- [Previous Lecture](../03%20-%20Most%20Important%20Quality%20Attributes%20in%20Large%20Scale%20Systems/06%20-%20Real%20World%20SLA%20Examples%20from%20the%20Industry.md)
+- [Next Lecture](./02%20-%20RPC.md)

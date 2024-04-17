@@ -41,3 +41,8 @@
 ## Summary
 
 In this lecture, RPC was explored as a foundational API style suited for enabling remote method invocations that feel like local calls. The discussion covered how RPCs work, their advantages, and the challenges they present. Best practices were highlighted to mitigate potential issues such as performance lags and unreliable network communications, ensuring effective use of RPC in appropriate scenarios.
+
+## References
+
+- [Previous Lecture](./01%20-%20Introduction%20to%20API%20Design%20for%20Software%20Architects.md)
+- [Next Lecture](./03%20-%20Popular%20RPC%20Frameworks%20and%20Technologies.md)

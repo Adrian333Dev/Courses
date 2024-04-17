@@ -32,3 +32,8 @@
 ---
 
 In this lecture, the concept of system constraints as a crucial architectural driver was explored, highlighting the importance of evaluating and accommodating these constraints in the design of software architecture while maintaining the ability to adapt to future changes.
+
+## References
+
+- [Previous Lecture](./03%20-%20System%20Quality%20Attributes%20Requirements.md)
+- [Next Lecture](../03%20-%20Most%20Important%20Quality%20Attributes%20in%20Large%20Scale%20Systems/01%20-%20Performance.md)

@@ -33,3 +33,8 @@
 ---
 
 In this lecture, scalability was discussed as a vital quality attribute for large-scale systems, highlighting the importance of designing for vertical, horizontal, and team scalability to accommodate varying and increasing system loads.
+
+## References
+
+- [Previous Lecture](./01%20-%20Performance.md)
+- [Next Lecture](./03%20-%20Availability%20-%20Introduction%20&%20Measurement.md)

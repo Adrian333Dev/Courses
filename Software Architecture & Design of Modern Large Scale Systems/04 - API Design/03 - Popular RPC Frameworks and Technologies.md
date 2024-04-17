@@ -37,3 +37,8 @@ Java Remote Method Invocation (RMI) is an RPC framework that allows one Java vir
 RMI uses Java as the _Interface Description Language_.
 
 You can find the full tutorial [here](https://docs.oracle.com/javase/tutorial/rmi/).
+
+## References
+
+- [Previous Lecture](./02%20-%20RPC.md)
+- [Next Lecture](./04%20-%20REST%20API.md)

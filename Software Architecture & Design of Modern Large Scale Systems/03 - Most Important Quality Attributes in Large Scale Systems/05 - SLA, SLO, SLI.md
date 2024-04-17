@@ -22,3 +22,8 @@
 ---
 
 In this lecture, the concepts of Service Level Agreement (SLA), Service Level Objective (SLO), and Service Level Indicator (SLI) were explored, highlighting their roles in aggregating and measuring the promises made to users regarding system quality attributes. Key considerations for setting SLOs were also discussed, emphasizing the importance of user-centric metrics, realistic goals, and preparedness for recovery.
+
+## References
+
+- [Previous Lecture](./04%20-%20Fault%20Tolerance%20&%20High%20Availability.md)
+- [Next Lecture](./06%20-%20Real%20World%20SLA%20Examples%20from%20the%20Industry.md)

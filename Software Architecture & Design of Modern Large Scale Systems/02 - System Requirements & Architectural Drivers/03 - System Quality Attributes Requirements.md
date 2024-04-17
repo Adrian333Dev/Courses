@@ -37,3 +37,8 @@
 ---
 
 In this lecture, the significance of quality attributes in system design was emphasized, along with the importance of making them measurable, prioritizing them based on business needs, and ensuring their feasibility.
+
+## References
+
+- [Previous Lecture](./02%20-%20Feature%20Requirements%20-%20Step%20by%20Step%20Process.md)
+- [Next Lecture](./04%20-%20System%20Constraints%20in%20Software%20Architecture.md)

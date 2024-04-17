@@ -29,3 +29,8 @@
 ## Terms
 
 - **Degradation Point:** The point at which performance significantly worsens as the load increases.
+
+## References
+
+- [Previous Lecture](../02%20-%20System%20Requirements%20&%20Architectural%20Drivers/04%20-%20System%20Constraints%20in%20Software%20Architecture.md)
+- [Next Lecture](./02%20-Scalability.md)

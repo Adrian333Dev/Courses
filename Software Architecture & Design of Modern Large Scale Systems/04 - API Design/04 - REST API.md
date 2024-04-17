@@ -45,3 +45,8 @@
 ---
 
 In this lecture, REST was presented as a powerful API design style ideal for web services, emphasizing how resources are managed and accessed through a set of well-defined operations. The lecture also outlined how to design and implement a RESTful API by following best practices and addressing common challenges.
+
+## References
+
+- [Previous Lecture](./03%20-%20Popular%20RPC%20Frameworks%20and%20Technologies.md)
+- [Next Lecture](../05%20-%20Large%20Scale%20Systems%20Architectural%20Building%20Blocks/01%20-%20DNS,%20Load%20Balancing%20&%20GSLB.md)

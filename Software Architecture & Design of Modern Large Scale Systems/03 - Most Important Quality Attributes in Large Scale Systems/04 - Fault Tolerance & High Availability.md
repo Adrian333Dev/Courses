@@ -36,3 +36,8 @@
 ---
 
 In this lecture, fault tolerance was discussed as a critical aspect of achieving high availability in large-scale systems, emphasizing the importance of replication, monitoring, and recovery strategies to handle various sources of failures.
+
+## References
+
+- [Previous Lecture](./03%20-%20Availability%20-%20Introduction%20&%20Measurement.md)
+- [Next Lecture](./05%20-%20SLA,%20SLO,%20SLI.md)

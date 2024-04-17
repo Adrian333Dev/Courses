@@ -33,3 +33,8 @@
 ---
 
 In this lecture, the significance of high availability in large-scale systems was emphasized, with a focus on its impact on users and businesses. The concepts of availability, uptime, downtime, MTBF, and MTTR were introduced as measures to define and assess the availability of a system. The industry standards for high availability were also discussed, highlighting the importance of striving for "three nines" or above.
+
+## References
+
+- [Previous Lecture](./02%20-Scalability.md)
+- [Next Lecture](./04%20-%20Fault%20Tolerance%20&%20High%20Availability.md)

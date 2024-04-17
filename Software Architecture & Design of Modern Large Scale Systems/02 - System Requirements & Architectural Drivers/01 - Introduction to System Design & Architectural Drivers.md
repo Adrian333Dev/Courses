@@ -37,3 +37,8 @@
 ---
 
 In this lecture, the importance of accurately gathering and classifying system requirements was emphasized, highlighting the role of functional requirements, non-functional requirements, and system constraints in driving architectural decisions for large-scale systems.
+
+## References
+
+- [Previous Lecture](../README.md)
+- [Next Lecture](./02%20-%20Feature%20Requirements%20-%20Step%20by%20Step%20Process.md)
