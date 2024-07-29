@@ -1,0 +1,34 @@
+# Terms Cheatsheet
+
+- **NIC (Network Interface Card)**: A hardware component that allows computers to connect to other devices on a network. It is also known as a network adapter or network interface controller.
+- **TCP**: Transmission Control Protocol. A connection-oriented protocol that provides reliable, ordered, and error-checked delivery of data between applications.
+- **UDP**: User Datagram Protocol. A connectionless protocol that provides faster transmission of data but without the reliability, ordering, or error-checking of TCP.
+- **IP**: Internet Protocol. A network layer protocol that provides the logical addressing necessary for routing packets across networks.
+- **Data Unit in Each Layer of the TCP/IP Model**:
+  - **Application Layer**: Application Message
+  - **Transport Layer**: TCP Segment/UDP Datagram
+  - **Network Layer**: IP Packet
+  - **Data Link Layer**: Ethernet Frame
+  - **Physical Layer**: Bits
+- **Type of Cables that can be used for Ethernet Connections**:
+  - **Twisted Pair**: Commonly used for Ethernet connections. Includes categories such as Cat5, Cat5e, Cat6, and Cat6a.
+  - **Coaxial Cable**: Less common for Ethernet connections but still used in some environments.
+  - **Fiber Optic Cable**: Used for high-speed and long-distance connections.
+- **Data Link Layer and its Sublayers**:
+  - **Media Access Control (MAC)**: Responsible for Data Encapsulation and Accessing the media.
+  - **Logical Link Control (LLC)**: Responsible for Flow Control and Error Checking.
+- **Flow Control**: A mechanism used to manage the flow of data between two devices to prevent a fast sender from overwhelming a slow receiver.
+- **Error Control - Retransmission**: A method used to recover lost or corrupted data by retransmitting the data.
+- **ARR (Automatic Repeat Request)**: A method used to recover lost or corrupted data by requesting retransmission.
+- **CSMA/CD (Carrier Sense Multiple Access with Collision Detection)**: A network protocol that allows multiple devices to share the same communication channel. Devices listen before transmitting and if a collision is detected, they use a backoff algorithm to retransmit.
+- **CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance)**: A network protocol that avoids collisions by using a reservation-based approach. Devices request permission to transmit before sending data.
+- **ARP (Address Resolution Protocol)**: A protocol used to map IP addresses to MAC addresses on a local network.
+- **Some of Application Layer Protocols**:
+  - **DNS (Domain Name System)**: Resolves domain names to IP addresses.
+  - **DHCP (Dynamic Host Configuration Protocol)**: Assigns Dynamic IP addresses to devices on a network.
+  - **HTTP (Hypertext Transfer Protocol)**: Used for transmitting web pages over the Internet.
+  - **HTTPS (Hypertext Transfer Protocol Secure)**: Used for transmitting encrypted web pages over the Internet.
+  - **FTP (File Transfer Protocol)**: Used for transferring files between a client and a server on a network.
+  - **SMTP (Simple Mail Transfer Protocol)**: Used for sending email messages between servers.
+  - **POP3 (Post Office Protocol version 3)**: Used for retrieving email from a server.
+  - **IMAP (Internet Message Access Protocol)**: Used for accessing email messages on a server.
